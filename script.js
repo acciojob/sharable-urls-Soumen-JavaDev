@@ -18,4 +18,4 @@
             }
 
             url.textContent = "https://localhost:8080/" + queryString;
-    
+		}
